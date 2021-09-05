@@ -9,8 +9,10 @@ If everything goes well, you should get
 ```json
 {
    "response":{
-      "steamid":"**STEAMID64**",
+      "steamid":"STEAMID64",
       "success":1
    }
 }
 ```
+
+(**STEAMID64** should be a 16 digit integer)
