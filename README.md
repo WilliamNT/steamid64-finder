@@ -6,9 +6,11 @@ You'll need to replace YOUR_STEAM_API_KEY with well... your Steam API key. You c
 
 If everything goes well, you should get
 
+```json
 {
    "response":{
       "steamid":"**STEAMID64**",
       "success":1
    }
 }
+```
